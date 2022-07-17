@@ -1,0 +1,41 @@
+body {
+    background-color: #D5E1EF;
+}
+
+.container,.image_container,.text_container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.container,.image_container {
+    border-radius: 15px;
+}
+
+.container {
+    background-color: #fff;
+    padding: 1em 0.4em;
+}
+
+.image_container img {
+    border-radius: 15px;
+    margin-top: 1em;
+    width: 95%;
+}
+
+.title {
+    color: #1F314F;
+    font-weight: bold;
+    font-size: 22px;
+    width: 80%;
+}
+
+p {
+    color: #7D889E;
+    width: 78%;
+}
+
+.title, p {
+    text-align: center;
+}
