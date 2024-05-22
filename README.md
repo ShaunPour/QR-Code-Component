@@ -27,8 +27,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [See the Code](https://github.com/DarkPhoenixNinja92/QR-Code-Component)
-- Live Site URL: [Live Site](https://darkphoenixninja92.github.io/QR-Code-Component/)
+- Solution URL: [See the Code](https://github.com/ShaunPour/QR-Code-Component)
+- Live Site URL: [Live Site](https://shaunpour.github.io/QR-Code-Component/)
 
 ### Built with
 
