@@ -1,3 +1,5 @@
+/* BODY & CARD */
+
 body {
     background-color: #D5E1EF;
 }
@@ -8,10 +10,12 @@ body {
     align-items: center;
     justify-content: center;
 }
+/* BORDER RADIUS */
 
 .container,.image_container {
     border-radius: 15px;
 }
+/* CONTAINER & IMG */
 
 .container {
     background-color: #fff;
@@ -23,6 +27,7 @@ body {
     margin-top: 1em;
     width: 95%;
 }
+/* TITLE TEXT */
 
 .title {
     color: #1F314F;
@@ -30,6 +35,8 @@ body {
     font-size: 22px;
     width: 80%;
 }
+
+/* PARAGRAPH RESIZING */
 
 p {
     color: #7D889E;
